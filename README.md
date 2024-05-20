@@ -34,7 +34,7 @@ Isso abrirá a interface do Cypress, onde você poderá escolher e executar os t
 
 ## Dados Falsos (Fake Data)
 
-Os testes deste projeto utilizam dados falsos para garantir que sejam independentes de qualquer ambiente específico ou de dados reais. Para gerar esses dados falsos, usamos a biblioteca Faker.js, que nos permite criar facilmente informações falsas em diferentes formatos, como nomes, endereços, e-mails, etc.
+Os testes deste projeto utilizam dados falsos para garantir que sejam independentes de qualquer ambiente específico ou de dados reais. Para gerar esses dados falsos, usamos a biblioteca Faker.js, que nos permite criar facilmente informações falsas em diferentes formatos, como nomes, endereços, e-mails, etc...
 
 ### Exemplo de Uso
 
